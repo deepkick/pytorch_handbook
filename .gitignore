@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 chapter3/cifar/
+chapter4/hymenoptera_data/
+chapter4/hymenoptera_data.zip
 __pycache__/
 *.py[cod]
 *$py.class
